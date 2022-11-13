@@ -1,0 +1,12 @@
+/home/binh/Desktop/substrate-node-template/target/release/deps/poly1305-a06ddb51b9bad979.rmeta: /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/poly1305-0.7.2/src/lib.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/poly1305-0.7.2/src/backend.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/poly1305-0.7.2/src/backend/avx2.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/poly1305-0.7.2/src/backend/avx2/helpers.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/poly1305-0.7.2/src/backend/autodetect.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/poly1305-0.7.2/src/backend/soft.rs
+
+/home/binh/Desktop/substrate-node-template/target/release/deps/libpoly1305-a06ddb51b9bad979.rlib: /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/poly1305-0.7.2/src/lib.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/poly1305-0.7.2/src/backend.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/poly1305-0.7.2/src/backend/avx2.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/poly1305-0.7.2/src/backend/avx2/helpers.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/poly1305-0.7.2/src/backend/autodetect.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/poly1305-0.7.2/src/backend/soft.rs
+
+/home/binh/Desktop/substrate-node-template/target/release/deps/poly1305-a06ddb51b9bad979.d: /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/poly1305-0.7.2/src/lib.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/poly1305-0.7.2/src/backend.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/poly1305-0.7.2/src/backend/avx2.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/poly1305-0.7.2/src/backend/avx2/helpers.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/poly1305-0.7.2/src/backend/autodetect.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/poly1305-0.7.2/src/backend/soft.rs
+
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/poly1305-0.7.2/src/lib.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/poly1305-0.7.2/src/backend.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/poly1305-0.7.2/src/backend/avx2.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/poly1305-0.7.2/src/backend/avx2/helpers.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/poly1305-0.7.2/src/backend/autodetect.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/poly1305-0.7.2/src/backend/soft.rs:

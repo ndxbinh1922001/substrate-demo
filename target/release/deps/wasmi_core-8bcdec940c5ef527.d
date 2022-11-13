@@ -1,0 +1,12 @@
+/home/binh/Desktop/substrate-node-template/target/release/deps/wasmi_core-8bcdec940c5ef527.rmeta: /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/lib.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/host_error.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/nan_preserving_float.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/trap.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/untyped.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/value.rs
+
+/home/binh/Desktop/substrate-node-template/target/release/deps/libwasmi_core-8bcdec940c5ef527.rlib: /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/lib.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/host_error.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/nan_preserving_float.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/trap.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/untyped.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/value.rs
+
+/home/binh/Desktop/substrate-node-template/target/release/deps/wasmi_core-8bcdec940c5ef527.d: /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/lib.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/host_error.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/nan_preserving_float.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/trap.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/untyped.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/value.rs
+
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/lib.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/host_error.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/nan_preserving_float.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/trap.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/untyped.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/value.rs:

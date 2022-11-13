@@ -1,0 +1,11 @@
+/home/binh/Desktop/substrate-node-template/target/release/deps/sc_telemetry-66161a3e8fafe2fa.rmeta: /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/lib.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/endpoints.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/error.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/node.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/transport.rs
+
+/home/binh/Desktop/substrate-node-template/target/release/deps/libsc_telemetry-66161a3e8fafe2fa.rlib: /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/lib.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/endpoints.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/error.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/node.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/transport.rs
+
+/home/binh/Desktop/substrate-node-template/target/release/deps/sc_telemetry-66161a3e8fafe2fa.d: /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/lib.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/endpoints.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/error.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/node.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/transport.rs
+
+/home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/lib.rs:
+/home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/endpoints.rs:
+/home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/error.rs:
+/home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/node.rs:
+/home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/transport.rs:

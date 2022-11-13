@@ -1,0 +1,11 @@
+/home/binh/Desktop/substrate-node-template/target/release/deps/cargo_metadata-d2f2146fae23a5f2.rmeta: /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/lib.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/dependency.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/diagnostic.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/errors.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/messages.rs
+
+/home/binh/Desktop/substrate-node-template/target/release/deps/libcargo_metadata-d2f2146fae23a5f2.rlib: /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/lib.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/dependency.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/diagnostic.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/errors.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/messages.rs
+
+/home/binh/Desktop/substrate-node-template/target/release/deps/cargo_metadata-d2f2146fae23a5f2.d: /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/lib.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/dependency.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/diagnostic.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/errors.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/messages.rs
+
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/lib.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/dependency.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/diagnostic.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/errors.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.14.2/src/messages.rs:

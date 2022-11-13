@@ -1,0 +1,10 @@
+/home/binh/Desktop/substrate-node-template/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/futures_task-cce96706c88ffe01.rmeta: /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/lib.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/spawn.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/future_obj.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/noop_waker.rs
+
+/home/binh/Desktop/substrate-node-template/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/libfutures_task-cce96706c88ffe01.rlib: /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/lib.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/spawn.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/future_obj.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/noop_waker.rs
+
+/home/binh/Desktop/substrate-node-template/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/futures_task-cce96706c88ffe01.d: /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/lib.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/spawn.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/future_obj.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/noop_waker.rs
+
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/lib.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/spawn.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/future_obj.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/noop_waker.rs:

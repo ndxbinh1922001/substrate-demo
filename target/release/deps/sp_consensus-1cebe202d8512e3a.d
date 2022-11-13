@@ -1,0 +1,10 @@
+/home/binh/Desktop/substrate-node-template/target/release/deps/sp_consensus-1cebe202d8512e3a.rmeta: /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/lib.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/block_validation.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/error.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/select_chain.rs
+
+/home/binh/Desktop/substrate-node-template/target/release/deps/libsp_consensus-1cebe202d8512e3a.rlib: /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/lib.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/block_validation.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/error.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/select_chain.rs
+
+/home/binh/Desktop/substrate-node-template/target/release/deps/sp_consensus-1cebe202d8512e3a.d: /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/lib.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/block_validation.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/error.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/select_chain.rs
+
+/home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/lib.rs:
+/home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/block_validation.rs:
+/home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/error.rs:
+/home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/select_chain.rs:

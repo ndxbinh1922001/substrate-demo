@@ -1,0 +1,13 @@
+/home/binh/Desktop/substrate-node-template/target/release/deps/sc_network_light-ab356cab2f1ced51.rmeta: /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/lib.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/light_client_requests.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/light_client_requests/handler.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/schema.rs /home/binh/Desktop/substrate-node-template/target/release/build/sc-network-light-52ddd636b9c4168e/out/api.v1.light.rs
+
+/home/binh/Desktop/substrate-node-template/target/release/deps/libsc_network_light-ab356cab2f1ced51.rlib: /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/lib.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/light_client_requests.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/light_client_requests/handler.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/schema.rs /home/binh/Desktop/substrate-node-template/target/release/build/sc-network-light-52ddd636b9c4168e/out/api.v1.light.rs
+
+/home/binh/Desktop/substrate-node-template/target/release/deps/sc_network_light-ab356cab2f1ced51.d: /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/lib.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/light_client_requests.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/light_client_requests/handler.rs /home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/schema.rs /home/binh/Desktop/substrate-node-template/target/release/build/sc-network-light-52ddd636b9c4168e/out/api.v1.light.rs
+
+/home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/lib.rs:
+/home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/light_client_requests.rs:
+/home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/light_client_requests/handler.rs:
+/home/binh/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/schema.rs:
+/home/binh/Desktop/substrate-node-template/target/release/build/sc-network-light-52ddd636b9c4168e/out/api.v1.light.rs:
+
+# env-dep:OUT_DIR=/home/binh/Desktop/substrate-node-template/target/release/build/sc-network-light-52ddd636b9c4168e/out

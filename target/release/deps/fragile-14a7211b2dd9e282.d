@@ -1,0 +1,13 @@
+/home/binh/Desktop/substrate-node-template/target/release/deps/fragile-14a7211b2dd9e282.rmeta: /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/lib.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/errors.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/fragile.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/registry.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/semisticky.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/sticky.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/thread_id.rs
+
+/home/binh/Desktop/substrate-node-template/target/release/deps/libfragile-14a7211b2dd9e282.rlib: /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/lib.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/errors.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/fragile.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/registry.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/semisticky.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/sticky.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/thread_id.rs
+
+/home/binh/Desktop/substrate-node-template/target/release/deps/fragile-14a7211b2dd9e282.d: /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/lib.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/errors.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/fragile.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/registry.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/semisticky.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/sticky.rs /home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/thread_id.rs
+
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/lib.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/errors.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/fragile.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/registry.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/semisticky.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/sticky.rs:
+/home/binh/.cargo/registry/src/github.com-1ecc6299db9ec823/fragile-2.0.0/src/thread_id.rs:
